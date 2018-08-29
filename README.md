@@ -14,6 +14,6 @@ Resources
 ---------
 
 - AngularJS1: <https://angularjs.org/>
-- AngularJS1 style guide, highly recommended: <https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md>
+- AngularJS1 style guide, highly recommended: <https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md#controllers>
 - directive api: https://docs.angularjs.org/api/ng/service/$compile#directive-definition-object
 - $element api: https://docs.angularjs.org/api/ng/function/angular.element#angularjs-s-jqlite
