@@ -1,0 +1,1 @@
+`$scope` is not used, instead, we use the controller itself as the "scope".
